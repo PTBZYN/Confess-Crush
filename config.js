@@ -17,4 +17,5 @@ const CONFIG = {
     question: 'Anh mong em và anh sẽ được ở bên nhau, em ráng chờ a nhé? <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu em nhiều nhiều 😘😘'
+    mess: 'Mình biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+}
