@@ -1,20 +1,22 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu vbạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "KỈ NIỆM 6 THÁNG CHÚNG TA YÊU NHAU",
+    introTitle: 'BÉ ZYN',
+    introDesc: `Thật sự a rất cảm ơn em
+    Đã chấp nhận yêu anh
+    Đã đến bên anh, yêu anh, lo cho anh và luôn bên anh
+    Trải qua được 1 khoảng thời gian yêu nhau, a đã khóc rất nhiều vì em
+    Em đã không bỏ a vì a cứ hay mít ướt, lại còn vì anh mà nói dối mẹ cơ
+    Hay gần đây là việc a sợ a rớt môn em còn đòi bán cả acc game để cho a học
+    Rồi đến cả việc em nấu ăn cho anh, em làm rất nhiều thứ cho 
+    Anh cảm ơn em đã yêu anh`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Anh mong em và anh sẽ được ở bên nhau, em ráng chờ a nhé? <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    mess: 'Mình biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+   
 }
